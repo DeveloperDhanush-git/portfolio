@@ -19,5 +19,3 @@ sr.reveal('.home-text h1',{delay:680,origin:'left'});
 sr.reveal('.home-text p',{delay:750,origin:'right'});
 sr.reveal('.main-btn',{delay:860,origin:'left'});
 sr.reveal('.home-img',{delay:1000,origin:'right'});
-sr.reveal('.check', { delay: 200, origin: 'left' });
-sr.reveal('.social', { delay: 200, origin: 'right' });
